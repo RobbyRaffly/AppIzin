@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppIzin</string>
+    <string-array name="kategori">
+        <item>Sakit</item>
+        <item>Duka Cita</item>
+        <item>Urusan Keluarga</item>
+    </string-array>
+</resources>
